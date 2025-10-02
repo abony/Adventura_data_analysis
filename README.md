@@ -1,4 +1,4 @@
-# Adventura_data_analysis
+# Adventura Data Analysis
 
 Adventura Pvt. Limited -
 Customer Segmentation and Sales Performance Analysis
