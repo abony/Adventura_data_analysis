@@ -14,6 +14,9 @@ Data Source
 Source data was a proprietary sales database containing tables: Sales, Transactions, Customer Demographics, Product categories and Subcategories, Return Data etc.
 The dataset covered sales from January 2020 to June 2022.
 
+Contextual Event: Summer 2021 Campaign
+The Sales data for Q3 2021 includes the impact of Adventura's 'Summer Adventure Launch', a multi-channel campaign run from July 1st to July 28th. This event, which targeted Professionals via digital retargeting, is treated as a known variable in the time-series analysis
+
 Tools, Technologies, Analysis & Visualization
 
 Microsoft Excel
